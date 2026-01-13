@@ -52,14 +52,6 @@ I focus on **strong fundamentals**, clean logic, and building projects that actu
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajshreeX&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajshreeX&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🎯 Current Goals
 - Crack **internship / entry-level SDE role**
 - Strengthen **DSA + system thinking**
