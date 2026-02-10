@@ -36,7 +36,12 @@ I focus on **strong fundamentals**, clean logic, and building projects that actu
 - HTML5, CSS3
 - JavaScript (ES6+)
 - Node.js (basics)
-- React (learning)
+- React
+- Flask
+- MongoDB
+- PostgrSQL
+- Render
+- Netlify
 
 ### 🧠 Computer Science Core
 - Data Structures & Algorithms
